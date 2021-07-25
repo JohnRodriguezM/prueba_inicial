@@ -25,6 +25,10 @@ footer {
     font-size: 90%;
 }
 p{
-    text-align: right;
+    text-align: center;
+    color: blue;
+    font-size: 98%;
+    border: 1px solid blue;
+    border-radius: 10%;
 }
 
