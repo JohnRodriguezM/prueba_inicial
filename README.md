@@ -1,7 +1,6 @@
-# prueba_inicial
+# # # Prueba_inicial
 
-#caja de texto sencilla
+# # Caja de texto sencilla
 
-
-esta es una pequeña presentacion sobre los inicios en el fantastico mundo de la programacion, tecnicas sencillas, de sintaxis y de uso de vocabulario en prog. 
+Se muestra un texto, con bordes redondeados, es una caja sencilla de texto con un par de etiquetas html dentro.
 
